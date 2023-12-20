@@ -1,0 +1,1 @@
+{"name":"test_library","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32.3","features":[],"optional":false,"default_features":true,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index"}],"cksum":"f57715b8346c377560b5e664585d8bdaa6c2da48d01c313ee088bf44a23b4859","features":{},"yanked":false}
