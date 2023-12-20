@@ -1,5 +1,5 @@
 {
-    "dl": "http://LAPTOP-H9EDPS2Q:3000/api/v1/crates/{crate}/{version}/download",
-    "api": "http://LAPTOP-H9EDPS2Q:3000",
+    "dl": "127.0.0.1:3000/api/v1/crates/{crate}/{version}/download",
+    "api": "127.0.0.1:3000",
     "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
 }
